@@ -1,8 +1,7 @@
-*.sh
-*.py
-__pycache__
-*.pyc
 __pycache__/
+*.pyc
+/__pycache__
 /*.pyc
 
-__pycache__/*.pyc
+/__pycache__/*.pyc
+*py
