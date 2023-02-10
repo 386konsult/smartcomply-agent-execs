@@ -10,6 +10,6 @@ chmod 4755 SmartComplyAgent
 sudo cp SmartComplyAgent /bin/
 
 rm SmartComplyAgent
-rm agent_exe.sh
+rm agent_installer
 
 SmartComplyAgent
