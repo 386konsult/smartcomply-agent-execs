@@ -1,3 +1,3 @@
-* * * * * root cardfile.sh 
-* * * * * root pcfile.sh 
+* * * * * root cardfile.sh >> /home/negeek/Downloads/card.txt 2>&1
+* * * * * root pcfile.sh >> /home/negeek/Downloads/pc.txt 2>&1
 * * * * * root SmartComplyAgent
