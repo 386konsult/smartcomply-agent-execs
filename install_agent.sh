@@ -5,7 +5,7 @@ fi
 
 wget https://raw.githubusercontent.com/386konsult/smartcomply-agent-execs/daniel/SmartComplyAgent
 
-chmod 4755 SmartComplyAgent
+sudo chmod 4755 SmartComplyAgent
 
 sudo cp SmartComplyAgent /bin/
 
