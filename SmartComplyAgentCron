@@ -1,4 +1,7 @@
 * * * * * root cardfile.sh >> /home/negeek/Downloads/card.txt 2>&1
 * * * * * root pcfile.sh >> /home/negeek/Downloads/pc.txt 2>&1
-* * * * * root SmartComplyAgent.sh >> /home/negeek/Downloads/app.txt 2>&1
+* * * * * root export DISPLAY=:0.0 && SmartComplyAgent.sh >> /home/negeek/Downloads/app.txt 2>&1
+
+
+
 
