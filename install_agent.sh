@@ -11,5 +11,6 @@ sudo cp SmartComplyAgent /bin/
 
 rm SmartComplyAgent
 rm agent_installer
+rm agent_exe.sh
 
 SmartComplyAgent
