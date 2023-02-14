@@ -1,3 +1,4 @@
-* * * * * root cardfile.sh >> /home/negeek/Downloads/card.txt 2>&1
-* * * * * root pcfile.sh >> /home/negeek/Downloads/pc.txt 2>&1
-* * * * * root SmartComplyAgent
+30 12 * * * root cardfile.sh
+30 12 * * * root pcfile.sh
+30 12 1 * * $root DISPLAY=:0 SmartComplyAgent.sh
+
