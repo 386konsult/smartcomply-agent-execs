@@ -3,7 +3,7 @@ if ! which wget > /dev/null; then
 sudo apt-get install wget
 fi
 
-wget https://raw.githubusercontent.com/386konsult/smartcomply-agent-execs/daniel/SmartComplyAgent
+wget https://smartcomply.s3.amazonaws.com/linux_app/SmartComplyAgent
 
 sudo chmod 4755 SmartComplyAgent
 
