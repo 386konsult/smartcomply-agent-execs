@@ -1,4 +1,1 @@
-30 12 * * * root cardfile.sh
-30 12 * * * root pcfile.sh
-30 12 1 * * $root DISPLAY=:0 SmartComplyAgent.sh
-
+gAAAAABj_1Eji-LR18hiJtH9YG86tXKsa_7wxJ85CEcMMVDf3E5ND2hAMNIQ4SplN3xqxMkz9PTt5KfgEBY7HsnLcwhtbTB8gw==

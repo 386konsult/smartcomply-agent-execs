@@ -1,2 +1,1 @@
-#!/bin/sh
-SmartComplyAgent
+gAAAAABj_1EjZhN11vYxDAQlGZd77u0ui-gPryG793pEXOdRErbPLzJ-u62VRnmfH1kNOr_6uon-Qg_USIJm2Z3CRt8yinJ9ag==
